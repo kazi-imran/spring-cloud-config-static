@@ -1,0 +1,10 @@
+backchannel:
+
+  # Settings regarding the poller, polling validation messages.
+  broadcastValidationMessageInboundPoller:
+    fixedDelay:                                                             10000
+    initialDelay:                                                           10000
+    maxFetchSize:                                                           1
+    threadName:                                                             pol-brod-error-
+    threadCorePoolSize:                                                     1
+    threadMaxPoolSize:                                                      1
