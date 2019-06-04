@@ -10,3 +10,7 @@ backchannel:
     threadMaxPoolSize:                                                      1
 test: 
   go:                                                                       nice 
+  createFeedbackReport:
+   threadName:                                                             test-report-creation-job-test
+   # Capacity of the queue buffering report job creation requests.
+   queuesize:                                                              1   
