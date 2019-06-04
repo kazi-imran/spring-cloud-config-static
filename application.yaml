@@ -9,7 +9,7 @@ backchannel:
     threadCorePoolSize:                                                     1
     threadMaxPoolSize:                                                      1
   createFeedbackReport:
-   threadName:                                                             test-report-creation-job-test---
+    threadName:                                                             test-report-creation-job-test---
    # Capacity of the queue buffering report job creation requests.
    queuesize:                                                              1   
 test: 
