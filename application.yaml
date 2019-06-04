@@ -5,6 +5,6 @@ backchannel:
     fixedDelay:                                                             10000
     initialDelay:                                                           10000
     maxFetchSize:                                                           1
-    threadName:                                                             pol-brod-error-test1
+    threadName:                                                             pol-brod-error-test2
     threadCorePoolSize:                                                     1
     threadMaxPoolSize:                                                      1
