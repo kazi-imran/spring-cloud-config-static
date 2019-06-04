@@ -8,3 +8,5 @@ backchannel:
     threadName:                                                             pol-brod-error-test2
     threadCorePoolSize:                                                     1
     threadMaxPoolSize:                                                      1
+test: 
+  go:                                                                       nice 
