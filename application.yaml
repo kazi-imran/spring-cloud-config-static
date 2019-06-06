@@ -5,11 +5,11 @@ backchannel:
     fixedDelay:                                                             10000
     initialDelay:                                                           10000
     maxFetchSize:                                                           1
-    threadName:                                                             pol-brod-error-we-are-example2- 
+    threadName:                                                             pol-brod-error-we-are-example3-
     threadCorePoolSize:                                                     1
     threadMaxPoolSize:                                                      1
   createFeedbackReport:
-    threadName:                                                             report-creation-job-testikus
+    threadName:                                                             report-creation-job-meeeting
    # Capacity of the queue buffering report job creation requests.
     queuesize:                                                              1   
 test: 
